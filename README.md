@@ -1,16 +1,31 @@
-# flutter_drawer
+# Flutter Drawing App 
 
-A new Flutter project.
+<img align="left" alt=“Dart” width="20px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />[Click here for medium article]()
 
-## Getting Started
+## About
+Learn how to create a drawing app in Flutter and explore Flutter’s capability to render and control a custom UI with the help of CustomPaint widgets.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+* Changeable point color
+* Changeable background color
+* Changeable stroke width
+* Clean screen button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Directory Structure 
+```
+lib
+│─── drawing_page.dart    
+|─── drawing_line.dart
+|─── main.dart
+|─── sketcher.dart
+
+```
+## The App
+
+<img src="https://raw.githubusercontent.com/coch82/flutter_drawer/main/images/drawing_app.gif" width="320" height="480" /><img src="https://raw.githubusercontent.com/coch82/flutter_drawer/main/images/draw_app_image.png" width="320" height="480" />
+
+
+Created by [Flutter](https://flutter.dev).
