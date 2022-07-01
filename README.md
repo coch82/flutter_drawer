@@ -1,6 +1,6 @@
 # Flutter Drawing App 
 
-<img align="left" alt=“Dart” width="20px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />[https://medium.com/@umitcan/drawing-app-from-scratch-with-flutter-8a2ff1005269]()
+<img align="left" alt=“Dart” width="20px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />[Click here for medium article](https://medium.com/@umitcan/drawing-app-from-scratch-with-flutter-8a2ff1005269)
 
 ## The App
 <img src="https://raw.githubusercontent.com/coch82/flutter_drawer/main/images/drawing_app.gif" width="320" height="480" /><img src="https://raw.githubusercontent.com/coch82/flutter_drawer/main/images/draw_app_image.png" width="320" height="480" />
